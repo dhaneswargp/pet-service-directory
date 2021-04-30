@@ -1,0 +1,35 @@
+{
+  "name": "map",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.2.3",
+    "@types/googlemaps": "^3.30.7",
+    "ajv": "^6.2.0",
+    "bluebird": "^3.5.1",
+    "bootstrap": "^4.0.0-alpha.6",
+    "geolib": "^2.0.24",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-dropdown": "^1.4.0",
+    "react-foursquare": "^1.0.3",
+    "react-google-maps": "^9.4.5",
+    "react-places-autocomplete": "^6.1.2",
+    "react-rangeslider": "^2.2.0",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-transition-group": "^2.2.1",
+    "reactstrap": "^4.8.0",
+    "recompose": "^0.26.0",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
